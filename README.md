@@ -33,11 +33,11 @@
 
 ## 🚀 Installation  
 
-1. Mount the **boot partition** of your SD card.  
-2. Copy these files from the repo into the **boot partition**:  
+1. Mount the **BOOT partition** of your SD card.  
+2. Copy these files from the repo into the **BOOT partition**:  
    - `image`  
    - `rk3326-g80c.dtb`  
-   - `extlinux/` (folder)  
+   - `extlinux/extlinux.conf` 
 3. Safely unmount and reboot your device.  
 
 ---
