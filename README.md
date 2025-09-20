@@ -19,7 +19,7 @@
 ## ⚠️ Known Issues  
 
 - **Headphones**: audio flickers between headphone out and onboard speaker when headphones are connected.  
-
+- **Charging**: device powers itself back on automatically when plugged into charger, even after shutdown.
 ---
 
 ## 📦 What’s Included  
